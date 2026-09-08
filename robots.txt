@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simone2850.github.io/sitemap.xml
